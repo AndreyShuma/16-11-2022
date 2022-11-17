@@ -413,7 +413,7 @@
     height: 100px;
     width: 100px;
     margin: 10px;
-    background-image: url(/img/goods.jpg);
+    background-image: url(../img/goods.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
   }
